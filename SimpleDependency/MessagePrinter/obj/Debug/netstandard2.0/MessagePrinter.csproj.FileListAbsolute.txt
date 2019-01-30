@@ -1,0 +1,9 @@
+U:\CIDM4390\SimpleDependency\MessagePrinter\bin\Debug\netstandard2.0\MessagePrinter.deps.json
+U:\CIDM4390\SimpleDependency\MessagePrinter\bin\Debug\netstandard2.0\MessagePrinter.dll
+U:\CIDM4390\SimpleDependency\MessagePrinter\bin\Debug\netstandard2.0\MessagePrinter.pdb
+U:\CIDM4390\SimpleDependency\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.csprojAssemblyReference.cache
+U:\CIDM4390\SimpleDependency\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.csproj.CoreCompileInputs.cache
+U:\CIDM4390\SimpleDependency\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.AssemblyInfoInputs.cache
+U:\CIDM4390\SimpleDependency\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.AssemblyInfo.cs
+U:\CIDM4390\SimpleDependency\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.dll
+U:\CIDM4390\SimpleDependency\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.pdb
